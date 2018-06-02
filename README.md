@@ -8,6 +8,7 @@ is an in-memory RDF database capable to store, trace, and query provenance infor
 --------------------
 # build
 ```sh
+mkdir release
 cd release 
 cmake ../
 make 
