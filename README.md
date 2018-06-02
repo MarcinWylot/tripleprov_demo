@@ -1,5 +1,3 @@
-# tripleprov
-
 # TripleProv 
 is an in-memory RDF database capable to store, trace, and query provenance information in processing RDF queries.
 
