@@ -30,7 +30,4 @@ make
 ./tripleprov ../query05 
 ./tripleprov ../query05 ../ProvQuery
 ./tripleprov ../query05 ../ProvQuery2
-./tripleprov ../query06
-./tripleprov ../query06 ../ProvQuery
-./tripleprov ../query06 ../ProvQuey2
 ```
