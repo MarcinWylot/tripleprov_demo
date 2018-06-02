@@ -1,0 +1,5 @@
+?c <http://www.geonames.org/ontology#featureClass> <http://www.geonames.org/ontology#P> .
+?c <http://www.geonames.org/ontology#inCountry> <http://www.geonames.org/countries/#DE> .
+XXX
+?c <http://www.w3.org/2003/01/geo/wgs84_pos#lat> ?lat .
+?c <http://www.w3.org/2003/01/geo/wgs84_pos#long> ?long .

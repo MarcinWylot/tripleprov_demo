@@ -1,0 +1,4 @@
+?a <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee" .
+XXX
+?a <http://dbpedia.org/property/dateOfBirth> ?b .
+?a <http://dbpedia.org/property/placeOfBirth> ?p .

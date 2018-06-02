@@ -1,0 +1,6 @@
+?a <http://www.w3.org/ns/prov#SoftwareAgent> <imagination> .
+?a <http://www.w3.org/ns/prov#activity> <Activity1123> .
+?a <http://www.w3.org/ns/prov#atLocation> <http://dbpedia.org/resource/Fribourg> .
+XXX
+?a <http://www.w3.org/ns/prov#generated> ?s .
+?a <http://www.w3.org/ns/prov#wasAssociatedWith> ?s .
