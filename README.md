@@ -5,12 +5,16 @@ https://exascale.info/linked/data/provenance/rdf/management/tripleprov/TriplePro
 
 
 --------------------
-
+# build
+```sh
 cd release 
 cmake ../
 make 
+```
 
-and some examples how to run it
+# usage
+```sh
 ./tripleprov ../query06 
 ./tripleprov ../query06 ../ProvQuery
 ./tripleprov ../query06 ../ProvQuey2
+```
